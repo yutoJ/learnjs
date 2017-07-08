@@ -1,0 +1,1 @@
+vagrant ssh -- -L 9292:localhost:9292
